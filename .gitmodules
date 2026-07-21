@@ -1,0 +1,3 @@
+[submodule "kelola_backend"]
+	path = kelola_backend
+	url = https://github.com/claudio-nehemia/kelola_backend.git
